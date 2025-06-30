@@ -7,11 +7,12 @@ I am a Computer Science student at MIT ADT University with a strong passion for 
 
 ## 🛠️ Languages & Tools
 
+## 🛠️ Languages & Tools
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,java,cpp,c,cs,js,html,css,sql,react,nodejs,git,github,linux,unity,flask,keras,jupyter,mongodb,express,arduino" alt="Skills" />
-  <img src="https://cdn.simpleicons.org/clickhouse/FFDD00" height="40" alt="ClickHouse" />
-  <img src="https://cdn.simpleicons.org/micropython/2C3E50" height="40" alt="MicroPython" />
 </p>
+
 
 
 ---
