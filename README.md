@@ -46,7 +46,7 @@ I am a Computer Science student at MIT ADT University with a strong passion for 
 - 🔭 Currently working on: Machine Learning Models
 - 🌱 Learning: Quantitative Finance Libraries
 - 💬 Ask me about: ML, DL, LLMs, AI models
-- 📫 Reach me: akhil.katlagunta.111@gmail.com | [LinkedIn](https://www.linkedin.com/in/akhil-katlagunta-b77398281)
+- 📫 Reach me: [Email(akhil.katlagunta.111@gmail.com)](akhil.katlagunta.111@gmail.com) | [LinkedIn](https://www.linkedin.com/in/akhil-katlagunta-b77398281)
 - ⚡ Fun fact: Innovative thinker and hardworking student
 
 
