@@ -33,10 +33,7 @@ I am a Computer Science student at MIT ADT University with a strong passion for 
 
 ## 🔗 Links
 
-- [My GitHub Repositories](https://github.com/Ak1118912?tab=repositories)
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin) <!-- Replace with your actual LinkedIn URL -->
-- [Portfolio/Website](https://your-website.com) <!-- Replace with your actual website if available -->
-
+<p align="left"> <a href="https://github.com/Ak1118912?tab=repositories" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://your-website.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/> </a> </p>
 ---
 
 <!-- 
