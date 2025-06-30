@@ -19,18 +19,6 @@ I am a Computer Science student at MIT ADT University with a strong passion for 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ak1118912&show_icons=true&theme=github_dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Ak1118912&show_icons=true&theme=default" />
-  <img alt="Ak1118912's Streak Stats" src="https://streak-stats.demolab.com?user=Ak1118912&theme=default" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ak1118912&show_icons=true&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Ak1118912&show_icons=true&theme=default" />
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak1118912&layout=compact" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ak1118912&show_icons=true&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Ak1118912&show_icons=true&theme=default" />
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ak1118912&show_icons=true" />
 </picture>
 
