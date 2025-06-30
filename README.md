@@ -1,11 +1,7 @@
 # Hi there, I'm Ak1118912 👋
 
-<p>I am a Computer Science student at MIT ADT University with a strong passion for artificial intelligence and machine learning. As an ML enthusiast, I enjoy exploring data-driven solutions, building intelligent systems, and staying updated with the latest advancements in AI. I actively participate in hands-on projects, hackathons, and open-source contributions to deepen my understanding and apply my skills in real-world scenarios. My goal is to leverage technology to solve meaningful problems and contribute to the growing field of machine learning.</p>
+I am a Computer Science student at MIT ADT University with a strong passion for artificial intelligence and machine learning. As an ML enthusiast, I enjoy exploring data-driven solutions, building intelligent systems, and staying updated with the latest advancements in AI. I actively participate in hands-on projects, hackathons, and open-source contributions to deepen my understanding and apply my skills in real-world scenarios. My goal is to leverage technology to solve meaningful problems and contribute to the growing field of machine learning.
 ---
-
-## 🛠️ Languages & Tools
-
-## 🛠️ Languages & Tools
 
 ## 🛠️ Languages & Tools
 
@@ -18,6 +14,19 @@
 ---
 
 ## 📊 GitHub Stats
+![Ak1118912's Streak Stats](https://streak-stats.demolab.com?user=Ak1118912&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ak1118912&layout=compact)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ak1118912&show_icons=true&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Ak1118912&show_icons=true&theme=default" />
+  <img alt="Ak1118912's Streak Stats" src="https://streak-stats.demolab.com?user=Ak1118912&theme=default" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ak1118912&show_icons=true&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Ak1118912&show_icons=true&theme=default" />
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak1118912&layout=compact" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ak1118912&show_icons=true&theme=github_dark" />
