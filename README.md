@@ -21,8 +21,8 @@ picture>
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ak1118912&show_icons=true" />
 </picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ak1118912&layout=compact)
 ![Ak1118912's Streak Stats](https://streak-stats.demolab.com?user=Ak1118912&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ak1118912&layout=compact)
 
 ---
 
