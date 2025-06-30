@@ -1,5 +1,7 @@
 # Hi there, I'm Ak1118912 👋
 
+<img src="https://media1.tenor.com/m/10Zdx_RXqgcAAAAC/programming-crazy.gif" width="315" height="240" alt="a cartoon of a man sitting in front of a computer with a fist in the air" fetchpriority="high" style="max-width: 105px;">
+
 I am a Computer Science student at MIT ADT University with a strong passion for artificial intelligence and machine learning.
 ---
 
