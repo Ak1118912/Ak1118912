@@ -15,7 +15,11 @@ I am a Computer Science student at MIT ADT University with a strong passion for 
   <img src="https://skillicons.dev/icons?i=py,js,tensorflow,linux,windows,unity,flask,arduino,android" alt="Add_Skills" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ak1118912&layout=compact)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak1118912&layout=compact&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak1118912&layout=compact&theme=default" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak1118912&layout=compact" />
+</picture>
 
 
 
@@ -29,7 +33,11 @@ I am a Computer Science student at MIT ADT University with a strong passion for 
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ak1118912&show_icons=true" />
 </picture>
 
-![Ak1118912's Streak Stats](https://streak-stats.demolab.com?user=Ak1118912&theme=default)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Ak1118912&theme=github-dark-blue" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Ak1118912&theme=default" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Ak1118912" />
+</picture>
 
 ---
 
