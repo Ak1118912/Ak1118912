@@ -28,11 +28,11 @@ picture>
 
 ## 🏆 Profile Summary
 
-- 🔭 I’m currently working on: *[Your current project or interest]*
-- 🌱 I’m learning: *[Technologies or topics you’re learning]*
-- 💬 Ask me about: *[Your areas of expertise]*
-- 📫 How to reach me: *[Your email or social links]*
-- ⚡ Fun fact: *[A fun fact about you]*
+- 🔭 I’m currently working on: *[Machine Learning Models]*
+- 🌱 I’m learning: *[Libraries Related to Quantitative Finance]*
+- 💬 Ask me about: *[ML,DL,LLM & Working of AI models]*
+- 📫 How to reach me: *[akhil.katlagunta.111@gmail.com],[www.linkedin.com/in/akhil-katlagunta-b77398281]*
+- ⚡ Fun fact: *[An Innovative Thinker and a Hard Working Student]*
 
 ---
 
