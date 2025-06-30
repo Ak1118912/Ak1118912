@@ -26,13 +26,14 @@ picture>
 
 ---
 
-## 🏆 Profile Summary
+## About Me
 
-- 🔭 I’m currently working on: *[Machine Learning Models]*
-- 🌱 I’m learning: *[Libraries Related to Quantitative Finance]*
-- 💬 Ask me about: *[ML,DL,LLM & Working of AI models]*
-- 📫 How to reach me: *[akhil.katlagunta.111@gmail.com],[www.linkedin.com/in/akhil-katlagunta-b77398281]*
-- ⚡ Fun fact: *[An Innovative Thinker and a Hard Working Student]*
+- 🔭 Currently working on: Machine Learning Models
+- 🌱 Learning: Quantitative Finance Libraries
+- 💬 Ask me about: ML, DL, LLMs, AI models
+- 📫 Reach me: akhil.katlagunta.111@gmail.com | [LinkedIn](https://www.linkedin.com/in/akhil-katlagunta-b77398281)
+- ⚡ Fun fact: Innovative thinker and hardworking student
+
 
 ---
 
