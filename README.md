@@ -6,7 +6,7 @@ I am a Computer Science student at MIT ADT University with a strong passion for 
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,c,cs,js,html,css,sql,react,nodejs,git,github,linux,unity,flask,keras,jupyter" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,c,cs,js,html,css,sql,react,nodejs,git,github,linux,unity,flask,keras,jupyter,arduino,express,mongodb" alt="Skills" />
 </p>
 
 ---
@@ -34,7 +34,7 @@ I am a Computer Science student at MIT ADT University with a strong passion for 
 ## 🔗 Links
 
 <p align="left"> <a href="https://github.com/Ak1118912?tab=repositories" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://your-website.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/> </a> </p>
----
+
 
 <!-- 
 Skill icons powered by https://skillicons.dev [1][4]
