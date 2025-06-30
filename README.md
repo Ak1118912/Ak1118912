@@ -6,7 +6,7 @@ I am a Computer Science student at MIT ADT University with a strong passion for 
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,c,js,html,css,sql,react,nodejs,git,github,linux" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,py,java,cpp,c,js,html,css,sql,react,nodejs,git,github,linux" alt="Skills" />
 </p>
 
 ---
