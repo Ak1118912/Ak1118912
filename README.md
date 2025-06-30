@@ -6,16 +6,18 @@ I am a Computer Science student at MIT ADT University with a strong passion for 
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,py,java,cpp,c,js,html,css,sql,react,nodejs,git,github,linux" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,c,cs,js,html,css,sql,react,nodejs,git,github,linux,unity,flask,keras,jupyter" alt="Skills" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Ak1118912's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ak1118912&show_icons=true&theme=default)
-![Ak1118912's Streak Stats](https://streak-stats.demolab.com?user=Ak1118912&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ak1118912&layout=compact)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ak1118912&show_icons=true&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Ak1118912&show_icons=true&theme=default" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ak1118912&show_icons=true" />
+</picture>
 
 ---
 
