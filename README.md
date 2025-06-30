@@ -6,8 +6,16 @@ I am a Computer Science student at MIT ADT University with a strong passion for 
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,c,cs,js,html,css,react,nodejs,git,github,linux,unity,flask,mongodb,express,arduino" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,cs,html,css,react,nodejs,git,github,mongodb,express,blender" alt="Skills" />
 </p>
+
+## My Areas of Expertise
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,js,tensorflow,linux,android,windows,unity,flask,arduino" alt="Add_Skills" />
+</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ak1118912&layout=compact)
 
 
 
@@ -22,7 +30,6 @@ I am a Computer Science student at MIT ADT University with a strong passion for 
 </picture>
 
 ![Ak1118912's Streak Stats](https://streak-stats.demolab.com?user=Ak1118912&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ak1118912&layout=compact)
 
 ---
 
