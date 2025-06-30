@@ -15,7 +15,7 @@ I am a Computer Science student at MIT ADT University with a strong passion for 
 
 ## 📊 GitHub Stats
 
-picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ak1118912&show_icons=true&theme=github_dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Ak1118912&show_icons=true&theme=default" />
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ak1118912&show_icons=true" />
